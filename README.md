@@ -27,6 +27,10 @@ Cada seção traz um texto explicativo, imagens ilustrativas e links para aprofu
 
 •O vídeo presente no site foi gravado e editado por mim, hospedado diretamente no YouTube, com o objetivo de complementar o conteúdo das páginas.
 
+# Licença
+
+Este projeto está licenciado sob a MIT License. 
+
 # Agradecimentos
 Este projeto só foi possível graças à orientação, revisão e sugestões de melhorias do Professor Miderson Andrei de Souza Santana, que acompanhou todo o desenvolvimento e contribuiu com feedbacks essenciais.
 #

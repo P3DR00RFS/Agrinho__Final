@@ -1,7 +1,8 @@
 # Descrição: 
-Este site explora a importância da conexão entre o campo e a cidade, abordando temas fundamentais como: Educação e Saúde, Inovações Tecnológicas, Agricultura Sustentável, Crescimento de Jovens no Campo, O objetivo principal é refletir sobre esses temas e explicar como está acontecendo essa integração entre campo e cidade, promovendo um olhar mais humano, sustentável e inclusivo para o futuro.
+Este site explora a importância da conexão entre o campo e a cidade, abordando temas fundamentais como: Educação e Saúde, Inovações Tecnológicas, Agricultura Sustentável, Crescimento de Jovens no Campo. O objetivo principal é refletir sobre esses temas e explicar como está acontecendo essa integração entre campo e cidade, promovendo um olhar mais humano, sustentável e inclusivo para o futuro.
 
 #Como Usar
+
 1- Abra o site pelo link: https://p3dr00rfs.github.io/teste/index.html
 
 2- Navegue pelas seções do menu: Cada botão te levará diretamente para as áreas de informação dentro da página inicial.
@@ -22,11 +23,15 @@ O site é dividido em seções:
 Cada seção traz um texto explicativo, imagens ilustrativas e links para aprofundamento.
 
 # Imagens e Videos
-•Todas as imagens usadas no site foram fotografadas ou ilustradas por mim, utilizando ferramentas como o CorelDRAW para criação de gráficos e desenhos.
+•Todas as imagens usadas no site foram fotografadas no sitio da família ou ilustradas por mim, utilizando ferramentas como o CorelDRAW para criação de desenhos.
 
 •O vídeo presente no site foi gravado e editado por mim, hospedado diretamente no YouTube, com o objetivo de complementar o conteúdo das páginas.
 
 # Agradecimentos
 Este projeto só foi possível graças à orientação, revisão e sugestões de melhorias do Professor Miderson Andrei de Souza Santana, que acompanhou todo o desenvolvimento e contribuiu com feedbacks essenciais.
-# Desenvolvedor
+#
+
+Espero que as informações neste site sejam úteis e possam agregar conhecimento a todos.
+
+Meus sinceros agradecimentos,
 Pedro Henrique Farias Rufino Dos Santos
